@@ -13,12 +13,9 @@ Link Postman : https://www.postman.com/orange-flare-718608/workspace/ilham/colle
 
 Sebelum memulai, pastikan Anda sudah menginstal:
 
-- **PHP >= 8.x**
+- **PHP >= 8.2**
 - **Composer**
-- **MySQL/MariaDB**
-- **Node.js & NPM** (jika ada frontend)
-- **Git** (opsional)
-- **Laravel 10.x** (akan otomatis terinstall via Composer)
+- **MySQL**
 
 ---
 
